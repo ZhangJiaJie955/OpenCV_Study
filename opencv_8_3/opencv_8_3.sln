@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv_8_3", "opencv_8_3.vc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C020941-41D2-48A5-8061-2F88E33B90C3}"
 	ProjectSection(SolutionItems) = preProject
-		新建文本文档.md = 新建文本文档.md
+		notes.md = notes.md
 	EndProjectSection
 EndProject
 Global
