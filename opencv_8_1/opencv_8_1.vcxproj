@@ -143,6 +143,9 @@
   <ItemGroup>
     <ClCompile Include="opencv_8_1_source.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="note.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
